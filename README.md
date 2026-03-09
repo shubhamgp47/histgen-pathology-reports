@@ -70,7 +70,7 @@ p-value from paired t-test at α = 0.05
    
    For segnmentation use [CLAM patching script](/HistGen/CLAM/patching_scripts/tcga-wsi-report.sh) using the clam conda environment.
    
-   For feature extraction using HistGen feature extractor, Uni or Uni2 use the respective files in [Feature extraction](/HistGen/CLAM/extract_scripts) using clam conda environment. For CONCHv1.5 use the [Feature extraction](/HistGen4TITAN/CONCH%20CLAM/extract_features_calling_script.sh) and post process the features with [Postprocessing for CONCHv1.5](/HistGen4TITAN/CONCH%20CLAM/PostProcess%20CONCH%20Features/postprocess_features.ipynb) using clam_conch environment.
+   For feature extraction using HistGen feature extractor, Uni or Uni2 use the respective files in [Feature extraction](/HistGen/CLAM/extract_scripts) using clam conda environment. For CONCHv1.5 use the [Feature extraction](/HistGen4TITAN/CONCH%20CLAM/extract_features_calling_script.sh) and post process the features with [Postprocessing for CONCHv1.5](/HistGen4TITAN/CONCH%20CLAM/PostProcess%20CONCH%20Features/postprocess_featues.ipynb) using clam_conch environment.
    
    To create slide embeddings ftom TITAN use [TITAN Slide Embeddings](/HistGen4TITAN/extractSlideEmbeddings.py) using histgen_titan environment.
 
