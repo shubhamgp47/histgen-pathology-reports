@@ -67,7 +67,7 @@ p-value from paired t-test at α = 0.05
 
 ## Usage
 1. Preprocessing
-For segnmentation use /HistGen/CLAM/patching_scripts/tcga-wsi-report.sh using the clam conda environment. [CLAM patching script](/HistGen/CLAM/patching_scripts/tcga-wsi-report.sh)
+For segnmentation use [CLAM patching script](/HistGen/CLAM/patching_scripts/tcga-wsi-report.sh) using the clam conda environment.
 
-For feature extraction using HistGen feature extractor, Uni or Uni2 use the respective files in /HistGen/CLAM/extract_scripts/
+For feature extraction using HistGen feature extractor, Uni or Uni2 use the respective files in [Feature extraction](/HistGen/CLAM/) using clam conda environment and for CONCHv1.5 use the [Feature extraction](/HistGen4TITAN/CONCH%CLAM/extract_features_calling_script.sh)
 
